@@ -31,13 +31,25 @@ body{
 .main{
     position: absolute;
     top:70%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    left: 25%;
+    transform: translate(-25%,-50%);
     height: 34vmax;
-    width: 90vmax;
+    width: 70vmax;
     background-color: aliceblue;
     border: 0.5vmin rgb(49, 49, 49) solid;
     border-radius: 15px;
+}
+.aside{
+    position: relative;
+    top: 50%;
+    left: 74vmax;
+    transform: translate(-0%,-50%);
+    background-color: rgb(53, 124, 53);
+    height: 31vmax;
+    width: 18vmax;
+    border-top-left-radius: 55px;
+    border-bottom-left-radius: 55px;
+    border: 5px rgb(37, 185, 37) solid;
 }
 .footer{
     position: absolute;
