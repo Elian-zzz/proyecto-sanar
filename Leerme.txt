@@ -1,0 +1,40 @@
+-- Presentación del proyecto --
+
+                                                Pagina web Sanar
+
+Un sistema de información atraviesa varias etapas o fases clave para su ciclo de vida, desde la planificación
+inicial hasta la implementación y mantenimiento posterior. Estas etapas incluyen la planificación, el análisis 
+de requisitos, el diseño, la implementación, las pruebas, el despliegue, el uso y el mantenimiento. El ciclo 
+de vida de un sistema de información, también conocido como SDLC (Software Development Life Cycle), es un 
+proceso que se sigue para desarrollar y mejorar un sistema de información. Etapas del ciclo de vida de un 
+sistema de información:
+
+1. Planificación:
+En esta etapa se define la necesidad del sistema, se identifican los objetivos y se evalúa la 
+viabilidad del proyecto.
+
+2. Análisis:
+Se realiza una investigación exhaustiva para comprender las necesidades del usuario y los 
+requisitos del sistema.
+
+3. Diseño:
+Se planifica la estructura del sistema, incluyendo la interfaz de usuario, la base de datos y 
+los algoritmos.
+
+4. Implementación:
+Se construye el sistema de acuerdo con el diseño, utilizando herramientas de desarrollo y 
+lenguajes de programación.
+
+5. Pruebas:
+Se verifican las funcionalidades del sistema para identificar y corregir errores,
+ .
+
+6. Despliegue:
+Se instala y configura el sistema en el entorno de producción.
+
+7. Uso:
+El sistema es utilizado por los usuarios para lograr sus objetivos.
+
+8. Mantenimiento:
+Se realizan ajustes y mejoras al sistema para garantizar su funcionamiento y adaptarlo a 
+las necesidades cambiantes. 
