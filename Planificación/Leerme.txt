@@ -1,9 +1,8 @@
 -               Etapa planificación
 
-(+) Creamos bocetos a partir de un mismo estilo en css,
-usamos el index como regulador de la hoja de estilos 
-'Style.css' e implementamos esa misma hoja de estilos en
-el resto de paginas web que funcionen como bocetos.
+(+) Creamos bocetos de css's a partir de un index,
+en cuanto cambiamos de hoja de estilo  la pagina se 
+adapta en cuanto estilo que rige.
 
-(!) Se adquiere boostrap como biblioteca de ayuda en los estilos,
-ahora complementaremos nuestros estilos con los de boostrap.
+- Van a regir la regla de que los elementos van a contar con menciones en clases
+  debe de tener los mismos elementos pero acomodados en distinto orden.
