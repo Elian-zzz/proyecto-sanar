@@ -1,5 +1,5 @@
 body{
-    overflow-x: hiden;
+    overflow-x: hidden;
     margin: 0;
     width: min-content;
     height: fit-content;
@@ -35,7 +35,7 @@ body{
 }
 .footer{
     position: absolute;
-    
+
     top: 105vmin;
     left: 50%;
     transform: translate(-50%,-50%);
